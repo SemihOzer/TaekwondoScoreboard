@@ -19,9 +19,9 @@ public class TkdSkorborard {
      */
     public static void main(String[] args) throws InterruptedException {
         // TODO code application logic here
+        Main main = new Main();
         
-        Main Main = new Main();
-        
+
         
         
     }
